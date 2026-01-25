@@ -1,2 +1,2 @@
 # DS2002-OSEI
-private DS2002 coursework repository
+Joycelyn DS2002 coursework repository
